@@ -1,5 +1,3 @@
-Here's a README file for GitHub based on the provided attachments, with plagiarism removed:
-
 # Tic-Tac-Toe with Minimax AI
 
 ## Overview
